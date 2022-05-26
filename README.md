@@ -1,12 +1,16 @@
 # Git Workshop Basics 2022
+
 __IMPRS conference workshop 2022__
-June 3rd 13am - 15pm
-Location: tba
-Online link: https://radbouduniversity.zoom.us/j/84154026905?pwd=Y3FZOVgzY2thTzdTTEZUTi9oMHd0Zz09
+
+:calendar: Date: June 3rd 13am - 15pm
+
+:door: Location: tba
+
+:computer: [Online link](https://radbouduniversity.zoom.us/j/84154026905?pwd=Y3FZOVgzY2thTzdTTEZUTi9oMHd0Zz09)
 
 We will use this repository throughout the Git Workshop. All workshop material including exercises will be uploaded here a few days prior to the Workshop
 
-Please check out the "Howtoprepare" document and make sure you are all set-up prior to the workshop.
+Please check out the [prep-pdf](https://github.com/aranas/Git_Workshop_Basics2022/blob/main/1_Howtoprepare.pdf) and make sure you are all set-up prior to the workshop.
 
 ## From zero to git-pull-push
 
@@ -14,9 +18,15 @@ This workshop teaches the basics of Git version control for absolute beginners. 
 
 ## Schedule
 10:00  :wave: Welcome
+
 10:15  :speaker: Intro Git version control + basic workflow
-10:30  :computer: Exercise 1 - make your first local commit
+
+10:30  :pencil2: Exercise 1 - make your first local commit
+
 10:50  :cookie: & Stretch
+
 11:55  :speaker: GitHub & remotes
-11:15  :computer: Exercise 2 - push your changes to remote
-11:40  :mortar_board: Wrap-up
+
+11:15  :pencil2: Exercise 2 - push your changes to remote
+
+11:40  :ribbon: Wrap-up
