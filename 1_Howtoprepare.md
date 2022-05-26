@@ -18,8 +18,8 @@ In order to get lots of hands-on experience during the workshop, you need to set
 ## Schedule
 10:00  :wave: Welcome
 10:15  :speaker: Intro Git version control + basic workflow
-10:30  :computer: Exercise 1 - make your first local commit
+10:30  :pencil2: Exercise 1 - make your first local commit
 10:50  :cookie: & Stretch
 11:55  :speaker: GitHub & remotes
-11:15  :computer: Exercise 2 - push your changes to remote
-11:40  :mortar_board: Wrap-up
+11:15  :pencil2: Exercise 2 - push your changes to remote
+11:40  :ribbon: Wrap-up
