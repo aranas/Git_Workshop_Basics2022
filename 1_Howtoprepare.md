@@ -14,6 +14,7 @@ In order to get lots of hands-on experience during the workshop, you need to set
 * __Make an account__ on [GitHub](https://github.com/) and __share your username__ via the [google form](https://forms.gle/9Ae4bGvQAv7cqws57), so I can add you as contributor to our Workshop GitHub repository.
 * __Set your Git identity__. When you first install Git, you want to specify your identity for future collaborative work. You can specify your name and email by typing the following commands directly in your Git console (the one you downloaded above): ``git config --global user.name "your-name"`` and ``git config --global user.email "your-email"``.
 * __Set up a personal access token__. When interacting with GitHub from your local machine you will need to go authenticate yourself.  There are multiple ways how to do it. One is to use a personal access token. A personal access token is basically a password but instead of setting it yourself, you have to generate it via the GitHub website. To save some time, please already generate and save your personal access token for later use during the workshop. [Here are the instructions of how to do it.](https://docs.github.com/en/enterprise-server@3.5/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+* If  you like you can check out the [GitHub repository we will use during the workshop](https://github.com/aranas/Git_Workshop_Basics2022)
 
 ## Schedule
 10:00  :wave: Welcome
