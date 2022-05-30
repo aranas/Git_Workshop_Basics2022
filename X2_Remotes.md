@@ -5,16 +5,17 @@ In this exercise you will connect your local Git repo to a remote repository on 
 You will learn two ways of initiating this connection: 1) Create a remote copy of your local repo and 2) copying a remote repository onto your local disk. You will push your example file to both your own remote and our collaborative remote. These are the important commands to move files between local and remote:
 
  ```git remote -v```
-  ```git remote add <remote_name> <url>```   
+ ```git remote add <remote_name> <url>```   
  ```git clone <url>```  
  ```git push <remote_name> <branch_name>```  
  ```git pull <remote_name <branch_name>>```  
+
 
 ### 1. Pushing an existing local repo to GitHub
 
 Go to GitHub and create a new public repository there. You don't need to initialise with a README since we already have created some file locally.
 
-![example_newrepo](/Users/sophiearana/Documents/Work/Teaching/GitWorkshop/Git_imprsconference2020/test/images/example_newrepo.png =250x250)
+![example_newrepo](media/example_newrepo.png =400x400)
 
 On clicking the “Create repository” button, the GitHub will ask if you want to create a new repo from scratch or if you want to push an existing repo you have created locally. Since we have already created a new repo locally, we want to push that onto GitHub. So all we need is to copy the URL.
 
@@ -51,7 +52,7 @@ To https://github.com/aranas/my_first_remote.git
 
 Now, since all your files are on GitHub, you can edit them directly online as well. Refresh your browser, open your name_surname.md file and edit it by clicking on the pen-icon
 
-![example_editgithub](/Users/sophiearana/Documents/Work/Teaching/GitWorkshop/Git_imprsconference2020/test/images/example_editgithub.png)
+![example_editgithub](media/example_editgithub.png)
 
 As you will see GitHub provides you with a GUI for editing and commiting your changes to the remote repo. Now, make a change and click on the commit button!
 
@@ -77,11 +78,11 @@ Congratulations! You have now successfully synced your local and your remote rep
 
 ### 2. Cloning a remote GitHub repo to your local disc
 
-Sometimes you won't have a local project to start from but rather, you would like to copy an already existing remote project to your own disk. In that case, you want to ```git clone``` the remote repository. For our next exercise we will jointly work on our workshop repository https://github.com/Donders-Institute/git-workshop.git in small teams of five. To get set-up, your first step is to clone our remote repository
+Sometimes you won't have a local project to start from but rather, you would like to copy an already existing remote project to your own disk. In that case, you want to ```git clone``` the remote repository. So let's try to clone our workshop repository https://github.com/aranas/Git_Workshop_Basics2022.
 
 ```console
 >> cd ~/git_workshop2020
->> git clone https://github.com/Donders-Institute/git-workshop.git
+>> git clone https://github.com/aranas/Git_Workshop_Basics2022.git
 Cloning into 'git-workshop'...
 remote: Enumerating objects: 157, done.
 remote: Counting objects: 100% (157/157), done.
@@ -92,11 +93,11 @@ Resolving deltas: 100% (48/48), done.
 
 ```
 
-You can see that a new folder git-workshop was created containing the repository and all remote connections are automatically set
+You can see that a new folder Git_Workshop_Basics2022 was created containing the repository and all remote connections are automatically set
 
 ```console
->> cd git-workshop
+>> cd Git_Workshop_Basics2022
 >> git remote -v
-origin	https://github.com/Donders-Institute/git-workshop.git (fetch)
-origin	https://github.com/Donders-Institute/git-workshop.git (push)
+origin	https://github.com/aranas/Git_Workshop_Basics2022.git (fetch)
+origin	https://github.com/aranas/Git_Workshop_Basics2022.git (push)
 ```
