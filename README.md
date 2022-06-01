@@ -30,3 +30,11 @@ This workshop teaches the basics of Git version control for absolute beginners. 
 11:15  :pencil2: Exercise 2 - push your changes to remote
 
 11:40  :ribbon: Wrap-up
+
+### 📝 Cheatsheets
+
+* Markdown - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Gitstages - [https://ndpsoftware.com/git-cheatsheet.html](https://ndpsoftware.com/git-cheatsheet.html)
+* Git & GitHub - [https://training.github.com/downloads/github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
+
