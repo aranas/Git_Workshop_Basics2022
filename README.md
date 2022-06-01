@@ -4,7 +4,7 @@ __IMPRS conference workshop 2022__
 
 :calendar: Date: June 3rd 13am - 15pm
 
-:door: Location: tba
+:door: Location: 236
 
 :computer: [Online link](https://radbouduniversity.zoom.us/j/84154026905?pwd=Y3FZOVgzY2thTzdTTEZUTi9oMHd0Zz09)
 
