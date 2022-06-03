@@ -6,7 +6,7 @@ __IMPRS conference workshop 2022__
 
 :door: Location: 236
 
-:computer: [Online link](https://radbouduniversity.zoom.us/j/84154026905?pwd=Y3FZOVgzY2thTzdTTEZUTi9oMHd0Zz09)
+:computer: [Online link](https://us06web.zoom.us/j/85782801861?pwd=cFNvVEV2YXlPeFppQlJIQ29TbjUyUT09)
 
 We will use this repository throughout the Git Workshop. All workshop material including exercises will be uploaded here a few days prior to the Workshop
 
