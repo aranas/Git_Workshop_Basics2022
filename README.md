@@ -30,3 +30,7 @@ This workshop teaches the basics of Git version control for absolute beginners. 
 11:15  :pencil2: Exercise 2 - push your changes to remote
 
 11:40  :ribbon: Wrap-up
+
+
+## Say hello
+Sophie + :wave: + :heart:
