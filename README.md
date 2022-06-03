@@ -6,7 +6,7 @@ __IMPRS conference workshop 2022__
 
 :door: Location: 236
 
-:computer: [Online link](https://radbouduniversity.zoom.us/j/84154026905?pwd=Y3FZOVgzY2thTzdTTEZUTi9oMHd0Zz09)
+:computer: [Online link](https://us06web.zoom.us/j/85782801861?pwd=cFNvVEV2YXlPeFppQlJIQ29TbjUyUT09)
 
 We will use this repository throughout the Git Workshop. All workshop material including exercises will be uploaded here a few days prior to the Workshop
 
@@ -31,6 +31,14 @@ This workshop teaches the basics of Git version control for absolute beginners. 
 
 11:40  :ribbon: Wrap-up
 
+# new_branch
 
 ## Say hello
 Sophie + :wave: + :heart:
+=======
+### 📝 Cheatsheets
+
+* Markdown - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Gitstages - [https://ndpsoftware.com/git-cheatsheet.html](https://ndpsoftware.com/git-cheatsheet.html)
+* Git & GitHub - [https://training.github.com/downloads/github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
